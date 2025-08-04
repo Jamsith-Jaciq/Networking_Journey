@@ -1,7 +1,7 @@
 # Jamsith Rilwan Jahir Hussain
 ### Network & Infrastructure Engineer
 
-A certified network professional focused on building secure, scalable, and automated network solutions.
+A network professional focused on building secure, scalable, and automated network solutions.
 
 ---
 
