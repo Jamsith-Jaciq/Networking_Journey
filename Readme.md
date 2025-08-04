@@ -9,7 +9,7 @@ A certified network professional focused on building secure, scalable, and autom
 
 * **Routing & Switching:** OSPF, BGP, EIGRP, VLANs, STP, HSRP
 * **Network Security:** ACLs, IPsec & SSL VPN, Port Security, AAA (RADIUS/TACACS+)
-* **Cloud Networking:** AWS VPC (Subnets, Security Groups), Azure VNet
+* **Cloud Networking:** AWS VPC (Subnets, Security Groups)
 * **Automation:** Python (Netmiko), Ansible, Terraform (IaC)
 * **Tools:** Wireshark, GNS3, Cisco Packet Tracer, Nmap
 
