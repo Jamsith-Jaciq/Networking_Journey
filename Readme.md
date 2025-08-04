@@ -25,4 +25,4 @@ A certified network professional focused on building secure, scalable, and autom
 
 ### 📫 Connect
 
-[**LinkedIn**] https://www.linkedin.com/in/jamsithrilwan/ | [**Email**] jamsithrilwan804@gmail.com
+[**LinkedIn**] https://www.linkedin.com/in/jamsithrilwan/  |  [**Email**] jamsithrilwan804@gmail.com
