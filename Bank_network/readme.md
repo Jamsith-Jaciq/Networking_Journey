@@ -34,6 +34,6 @@ To explore the project, you will need to have Cisco Packet Tracer installed.
 
 ## Contributor
 
-- [Your Name]
+- Jamsith Rilwan
 
 Feel free to connect with me on [LinkedIn] https://www.linkedin.com/in/jamsithrilwan/.
